@@ -3,7 +3,7 @@
   "workspaces": {
     "": {
       "dependencies": {
-        "@hyperneutrino/djs-lite": "^1.0.0",
+        "@hyperneutrino/djs-lite": "^1.0.1",
         "discord.js": "^14.27.0",
         "mongodb": "^7.5.0",
       },
@@ -28,7 +28,7 @@
 
     "@discordjs/ws": ["@discordjs/ws@1.2.3", "", { "dependencies": { "@discordjs/collection": "^2.1.0", "@discordjs/rest": "^2.5.1", "@discordjs/util": "^1.1.0", "@sapphire/async-queue": "^1.5.2", "@types/ws": "^8.5.10", "@vladfrangu/async_event_emitter": "^2.2.4", "discord-api-types": "^0.38.1", "tslib": "^2.6.2", "ws": "^8.17.0" } }, "sha512-wPlQDxEmlDg5IxhJPuxXr3Vy9AjYq5xCvFWGJyD7w7Np8ZGu+Mc+97LCoEc/+AYCo2IDpKioiH0/c/mj5ZR9Uw=="],
 
-    "@hyperneutrino/djs-lite": ["@hyperneutrino/djs-lite@1.0.0", "", { "dependencies": { "@types/node": "^26.1.2", "discord.js": "^14.27.0" }, "peerDependencies": { "typescript": "^7.0.2" } }, "sha512-vm4M5AKH0t4qpRnQrWeFqxi+HpEndWK9bZr+F2i9DTwfV6Ijec31CGoRt/MeR/I/62qfVrJwF+4+KHHcLOSSKw=="],
+    "@hyperneutrino/djs-lite": ["@hyperneutrino/djs-lite@1.0.1", "", { "dependencies": { "@types/node": "^26.1.2", "discord.js": "^14.27.0" }, "peerDependencies": { "typescript": "^7.0.2" } }, "sha512-TsXXd4nwlxUMdoGuU4aM/aPOT81PoozvS1fpLflH07mSaHkqDBA4AY0i6iCZiA9tCVuPdzZDlET1COjYlW1RGQ=="],
 
     "@mongodb-js/saslprep": ["@mongodb-js/saslprep@1.4.13", "", { "dependencies": { "sparse-bitfield": "^3.0.3" } }, "sha512-E3Sv4eCYAlKYUTx8S3ioQcDUscOif+8zZ5OnW1IzJ+Tt+EO+ke8mn+Y3FX6N1H79picwbdOavVOb1jPi2EOyrg=="],
 
